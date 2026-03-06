@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rudi-terapis-manado.vercel.app/sitemap.xml
+Sitemap: https://rudi-terapis.vercel.app/sitemap.xml
